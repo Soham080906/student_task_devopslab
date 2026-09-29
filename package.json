@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
   "start": "node src/server.js",
-  "build": "echo Build successful - Student Task Manager ready for deployment"
+  "build": "echo Build successful - Student Task Manager ready for deployment",
+  "test": "node test.js"
    },
   "keywords": [],
   "author": "",
